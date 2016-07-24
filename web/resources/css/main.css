@@ -1,0 +1,15 @@
+.container {
+    background-color: #577492;
+    height:100%;
+    position:relative;
+}
+
+#messages {
+    background-color:white;
+    overflow:auto;
+}
+
+footer {
+    position:absolute;
+    bottom:0;
+}
